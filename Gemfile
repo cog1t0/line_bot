@@ -64,3 +64,4 @@ gem 'slim-rails'
 gem 'html2slim'
 gem 'liff_selector'
 gem 'dotenv-rails', groups: [:development, :test]
+gem 'line-bot-api'
